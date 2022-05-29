@@ -8,6 +8,7 @@
 
 [Link InfoArena sortaret](https://infoarena.ro/job_detail/2907087?action=view-source)
 
+--
 
 [Link InfoArena disjoint](https://infoarena.ro/job_detail/2907190?action=view-source)
 
@@ -17,6 +18,7 @@
 
 [Link InfoArena bellmanford](https://www.infoarena.ro/job_detail/2907298?action=view-source)
 
+--
 
 [Link InfoArena Roy-Floyd](https://infoarena.ro/job_detail/2907320?action=view-source)
 
